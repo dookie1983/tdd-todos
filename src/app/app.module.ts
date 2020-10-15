@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { TodoManageComponent } from './todo-manage/todo-manage.component';
+import { TodoManageComponent } from './components/todo-manage/todo-manage.component';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 
 @NgModule({

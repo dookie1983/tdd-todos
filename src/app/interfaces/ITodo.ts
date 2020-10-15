@@ -1,4 +1,4 @@
 export interface ITodo {
-  todo: string;
+  topic: string;
   description: string;
 }
