@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { TodoManageComponent } from './todo-manage/todo-manage.component';
+import { TodoManageComponent } from './components/todo-manage/todo-manage.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'todo-manage', pathMatch: 'full' },
